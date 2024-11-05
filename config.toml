@@ -1,4 +1,4 @@
-baseurl = "https://wahyu6070.github.io/mindthegapps-web/"
+baseurl = "https://wahyu6070.github.io/mindthegapps-web"
 title = "MindGapps - Custom Google Apps"
 contentdir    = "content"
 layoutdir     = "layouts"
