@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://androidroot.github.io/sitemap.xml
+
