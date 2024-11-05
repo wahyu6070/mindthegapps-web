@@ -33,12 +33,8 @@ author = "bjorka6868"
   priority = 0.8
   filename = "sitemap.xml"
 [permalinks]
-  news     = ":section/:year/:month/:slug"
-  download   = "/d/:year:month/:slug"
-  cusrom     = "/cusrom/:year:month/:slug"
-  kernel     = "/kernel/:year:month/:slug"
-  module     = "/module/:year:month/:slug"
-  tutorial   = "/tutorial/:year:month/:slug"
+
+
   etc        = "/etc/:year:month/:slug"
   
 [params]
